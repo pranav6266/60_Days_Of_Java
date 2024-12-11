@@ -2,7 +2,7 @@ package Day1;
 import java.util.Scanner;
 
 public class displayText {
-    public static void main(String[] args) {
+public static void main(String[] args) {
         // Prompt the user to enter a message
         System.out.println("Enter your message:");
 
