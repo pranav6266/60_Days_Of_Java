@@ -1,16 +1,14 @@
-#This is the problem statement for today.
-
-##Displaying Text with Java and Escape Sequences
-
+### This is the problem statement for today.
+# Displaying Text with Java and Escape Sequence
 Create a Java program that:
 1. Prompts the user to input a message.
 2. Displays the message using both System.out.println() (with a newline) and System.out.print() (without a newline).
 3. Prints an additional message using escape sequences to include special formatting like quotation marks and new lines.
 
-###Test Case:\
+### Test Case:
 Input: Hello World
 
-###Expected Output:
+### Expected Output:
 
 Enter your message:\
 Using println:\
